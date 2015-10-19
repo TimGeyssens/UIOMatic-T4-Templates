@@ -1,7 +1,7 @@
 <#@ include file="UIOMatic.Core.ttinclude" #>
 <#
 	// Settings
-    ConnectionStringName = "test";			// Uses last connection string in config if not specified
+    ConnectionStringName = "";			// Uses last connection string in config if not specified
     Namespace = "Generator";
     RepoName = "";
 	GeneratePocos = true;
