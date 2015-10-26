@@ -8,7 +8,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
-using UIOMatic.Atributes;
+using UIOMatic.Attributes;
 using UIOMatic.Enums;
 using UIOMatic.Interfaces;
 using Umbraco.Core.Persistence;
